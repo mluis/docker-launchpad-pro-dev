@@ -3,7 +3,7 @@ Automated build of the Development Environment to Novation's Launchpad Pro Firmw
 
 [![](https://images.microbadger.com/badges/version/mluis/launchpad-pro-dev.svg)](https://microbadger.com/images/mluis/launchpad-pro-dev "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/mluis/launchpad-pro-dev.svg)](https://microbadger.com/images/mluis/launchpad-pro-dev "Get your own image badge on microbadger.com")
 
-TL;DR:
+**TL;DR:**
   - git clone https://github.com/dvhdr/launchpad-pro.git
   - git clone https://github.com/dvhdr/libintelhex.git launchpad-pro/tools/libintelhex/
   - docker run -it -v $(pwd)/launchpad-pro:/launchpad-pro mluis/launchpad-pro-dev
