@@ -1,5 +1,5 @@
 # launchpad-pro-dev
-Automated build of the Development Environment to Novation's Launchpad Pro
+Automated build of the Development Environment to Novation's Launchpad Pro Firmware
 
 [![](https://images.microbadger.com/badges/version/mluis/launchpad-pro-dev.svg)](https://microbadger.com/images/mluis/launchpad-pro-dev "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/mluis/launchpad-pro-dev.svg)](https://microbadger.com/images/mluis/launchpad-pro-dev "Get your own image badge on microbadger.com")
 
