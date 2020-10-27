@@ -8,5 +8,3 @@ Automated build of the Development Environment to the Novation's Launchpad Pro F
   - git clone https://github.com/dvhdr/libintelhex.git launchpad-pro/tools/libintelhex/
   - docker run -it -v $(pwd)/launchpad-pro:/launchpad-pro mluis/launchpad-pro-dev
   - make
-
-[![gitcheese.com](https://s3.amazonaws.com/gitcheese-ui-master/images/badge.svg)](https://www.gitcheese.com/donate/users/162384/repos/97500167)
